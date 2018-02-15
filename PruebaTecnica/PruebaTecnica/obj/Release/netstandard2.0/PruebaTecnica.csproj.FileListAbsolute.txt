@@ -1,0 +1,14 @@
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.csproj.App.config
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.csprojResolveAssemblyReference.cache
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.csproj.CoreCompileInputs.cache
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.App.xaml.g.cs
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.MainPage.xaml.g.cs
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.Vista.BuscarUsuario.xaml.g.cs
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.AssemblyInfoInputs.cache
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.AssemblyInfo.cs
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Release\netstandard2.0\PruebaTecnica.dll.config
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Release\netstandard2.0\PruebaTecnica.deps.json
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Release\netstandard2.0\PruebaTecnica.dll
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Release\netstandard2.0\PruebaTecnica.pdb
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.dll
+D:\xamarin\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Release\netstandard2.0\PruebaTecnica.pdb

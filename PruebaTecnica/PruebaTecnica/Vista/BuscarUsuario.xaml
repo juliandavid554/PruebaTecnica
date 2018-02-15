@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba.Vista.BuscarUsuario" BackgroundColor="Azure">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="BuscarUsuaro"
+                   Placeholder="Buscar usuario"></Entry>
+
+            <Button x:Name="BtnBuscar"
+             Text="Buscar"></Button>
+            <Label x:Name="LblLogin"></Label>
+            <Image x:Name="ImgAvatar"></Image>
+            <Label x:Name="LblName"></Label>
+            <Label x:Name="LblCompany"></Label>
+            <Label x:Name="LblLocation"></Label>
+            <Label x:Name="LblEmail"></Label>
+            <ActivityIndicator x:Name="ProgressLoader"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
